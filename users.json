@@ -1,0 +1,38 @@
+{
+
+    "id": "user1",
+    "username":"Eosforos",
+    "firstName":"Efren",
+    "lastName":"Santos Jr.",
+    "email":"pogiefren@gmail.com",
+    "password":"efrenpogi",
+    "mobileNumber":"123456",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id":"enrollment1-user1",
+            "courseId": "course1",
+            "dateEnrolled": "01/15/2022",
+             "isPaid": "false"
+
+        }
+    ]
+},
+ "id": "user2"
+    "username":"cloudy",
+    "firstName":"Cloud",
+    "lastName":"De Guzman",
+    "email":"cloud_d73@yahoo.com",
+    "password":"cloudy123",
+    "mobileNumber":"43534534534",
+    "isAdmin":"false",
+    "enrollments": [
+        {
+
+            "id":"enrollment1-user2",
+            "courseId": "course2",
+            "dateEnrolled": "01/17/2022",
+             "isPaid": "true"
+    
+}
